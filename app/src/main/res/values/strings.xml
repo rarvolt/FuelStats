@@ -14,4 +14,5 @@
     <string name="fuel_type_pb98">Pb98</string>
     <string name="fuel_type_lpg">LPG</string>
     <string name="button_refueling_add">Add refueling</string>
+    <string name="action_history">History</string>
 </resources>
