@@ -16,7 +16,6 @@
     tools:showIn="@layout/activity_add_refueling">
 
     <TableRow>
-
         <TextView
             android:layout_marginEnd="@dimen/table_row_right_margin"
             android:layout_marginRight="@dimen/table_row_right_margin"
@@ -34,14 +33,12 @@
     </TableRow>
 
     <TableRow>
-
         <RadioGroup
             android:id="@+id/fuel_type_group"
             android:orientation="horizontal"
             android:layout_span="3">
-
             <RadioButton
-                android:id="@+id/fuel_type_on"
+                android:id="@+id/fuel_type_diesel"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -72,7 +69,6 @@
     </TableRow>
 
     <TableRow>
-
         <TextView
             android:layout_marginEnd="@dimen/table_row_right_margin"
             android:layout_marginRight="@dimen/table_row_right_margin"
@@ -92,7 +88,6 @@
     </TableRow>
 
     <TableRow>
-
         <TextView
             android:layout_marginEnd="@dimen/table_row_right_margin"
             android:layout_marginRight="@dimen/table_row_right_margin"
@@ -112,7 +107,6 @@
     </TableRow>
 
     <TableRow>
-
         <TextView
             android:layout_marginEnd="@dimen/table_row_right_margin"
             android:layout_marginRight="@dimen/table_row_right_margin"
@@ -132,7 +126,6 @@
     </TableRow>
 
     <TableRow>
-
         <Button
             android:text="@string/button_refueling_add"
             android:layout_span="3"

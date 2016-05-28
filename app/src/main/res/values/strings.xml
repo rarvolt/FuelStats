@@ -9,7 +9,7 @@
     <string name="default_currency">PLN/L</string>
     <string name="default_fuel_amount_unit">L</string>
     <string name="default_mileage_unit">km</string>
-    <string name="fuel_type_on">ON</string>
+    <string name="fuel_type_on">Diesel</string>
     <string name="fuel_type_pb95">Pb95</string>
     <string name="fuel_type_pb98">Pb98</string>
     <string name="fuel_type_lpg">LPG</string>
