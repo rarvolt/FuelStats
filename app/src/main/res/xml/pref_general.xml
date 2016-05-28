@@ -1,0 +1,33 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="fuel_type"
+        android:title="@string/pref_title_fuel"
+        android:dialogTitle="@string/pref_dialog_fuel"
+        android:defaultValue="default"
+        android:entries="@array/pref_entries_fuel"
+        android:entryValues="@array/pref_entryvalues_fuel"
+        android:negativeButtonText="@null"/>
+    <ListPreference
+        android:key="volume_unit"
+        android:title="@string/pref_title_volume_unit"
+        android:dialogTitle="@string/pref_dialog_volume_unit"
+        android:defaultValue="default"
+        android:entries="@array/pref_entries_volume_unit"
+        android:entryValues="@array/prefs_entryvalues_volume_unit"
+        android:negativeButtonText="@null"/>
+    <ListPreference
+        android:key="currency"
+        android:title="@string/pref_title_currency"
+        android:dialogTitle="@string/pref_dialog_currency"
+        android:defaultValue="default"
+        android:negativeButtonText="@null"/>
+    <ListPreference
+        android:key="distance_unit"
+        android:title="@string/pref_title_distance_unit"
+        android:dialogTitle="@string/pref_dialog_distance_unit"
+        android:entries="@array/pref_entries_distance_unit"
+        android:entryValues="@array/pref_entryvalues_distance_unit"
+        android:defaultValue="default"
+        android:negativeButtonText="@null"/>
+
+</PreferenceScreen>

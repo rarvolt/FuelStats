@@ -15,4 +15,7 @@
     <string name="fuel_type_lpg">LPG</string>
     <string name="button_refueling_add">Add refueling</string>
     <string name="action_history">History</string>
+    <string name="title_refueling_history_activity">Refueling history</string>
+    <string name="title_settings_activity">Settings</string>
+
 </resources>

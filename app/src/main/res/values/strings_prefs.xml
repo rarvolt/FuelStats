@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_title_fuel">Default fuel</string>
+    <string name="pref_dialog_fuel">Select fuel type</string>
+    <string-array name="pref_entries_fuel">
+        <item>Default</item>
+        <item>Diesel</item>
+        <item>Pb95</item>
+        <item>Pb98</item>
+        <item>LPG</item>
+    </string-array>
+    <string-array name="pref_entryvalues_fuel">
+        <item>default</item>
+        <item>diesel</item>
+        <item>pb95</item>
+        <item>pb98</item>
+        <item>lpg</item>
+    </string-array>
+
+    <string name="pref_title_volume_unit">Volume unit</string>
+    <string name="pref_dialog_volume_unit">Select volume unit</string>
+    <string-array name="pref_entries_volume_unit">
+        <item>Default</item>
+        <item>Liter</item>
+        <item>US Gallon</item>
+        <item>imp. Gallon</item>
+    </string-array>
+    <string-array name="prefs_entryvalues_volume_unit">
+        <item>default</item>
+        <item>L</item>
+        <item>US gal</item>
+        <item>imp. gal</item>
+    </string-array>
+
+    <string name="pref_title_currency">Currency</string>
+    <string name="pref_dialog_currency">Select currency</string>
+
+    <string name="pref_title_distance_unit">Distance unit</string>
+    <string name="pref_dialog_distance_unit">Select distance unit</string>
+    <string-array name="pref_entries_distance_unit">
+        <item>Default</item>
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="pref_entryvalues_distance_unit">
+        <item>default</item>
+        <item>km</item>
+        <item>mi</item>
+    </string-array>
+
+</resources>
